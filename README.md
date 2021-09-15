@@ -2,7 +2,7 @@ webserv
 
 
 # Subject 
-*Can be found as .pdf [HERE](https://raw.githubusercontent.com/romslf/webserv/main/en.subject.pdf)*
+*Can be found as .pdf [HERE](https://github.com/romslf/webserv/blob/main/en.subject.pdf)*
 ## Description
 ### Write an HTTP server in C++ 98
 • You can use every macro and define like FD_SET, FD_CLR, FD_ISSET, FD_ZERO
